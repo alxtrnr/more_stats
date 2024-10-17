@@ -14,7 +14,7 @@ and offers implications for library management and music exploration.
 ### Usage:
 1. Ensure you have Python 3 and the Beets library installed
 2. Set the 'db_path' variable to point to your Beets database location
-3. Run the script: python3 genrediversity.py
+3. Run the script: python3 shannon_diversity_index_analysis.py
 
 This script is designed to work with Beets libraries where genres are comma-separated,
 with a maximum of three genres per track.
