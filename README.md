@@ -21,3 +21,7 @@ with a maximum of three genres per track.
 
 ## License
 MIT License
+
+
+
+![**Example Output**](https://ibb.co/94QYHYV)
