@@ -19,9 +19,9 @@ and offers implications for library management and music exploration.
 This script is designed to work with Beets libraries where genres are comma-separated,
 with a maximum of three genres per track.
 
-## License
+**License**
 MIT License
 
-
+## Example Output
 
 ![Example Output](https://i.ibb.co/rpDy2yc/more-stats.png)
