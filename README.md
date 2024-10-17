@@ -24,4 +24,4 @@ MIT License
 
 
 
-![**Example Output**](https://i.ibb.co/rpDy2yc/more-stats.png)
+![Example Output](https://i.ibb.co/rpDy2yc/more-stats.png)
